@@ -22,10 +22,13 @@ export const App = () => {
     return (
         <Fragment>
             <Task_3_1/>
+            <hr/>
             <Task_3_2/>
+            <hr/>
             <Task_3_3>
                 <SlowComponent/>
             </Task_3_3>
+            <hr/>
             <Task_3_4/>
             <hr/>
         </Fragment>
